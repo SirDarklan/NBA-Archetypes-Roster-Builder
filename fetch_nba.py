@@ -42,7 +42,7 @@ def save(name, fetch):
     pd.concat(frames).to_csv(f"data/{name}.csv", index=False)
     print(name, "done.")
  
-save("player_totals", lambda s: LeagueDashPlayerBioStats(season=s))
+save("player_stats", lambda s: LeagueDashPlayerBioStats(season=s))
 save("player_totals", lambda s: LeagueDashPlayerStats(season=s))
 save("player_advanced", lambda s: LeagueDashPlayerStats(season=s, measure_type_detailed_defense="Advanced"))
 save("player_scoring", lambda s: LeagueDashPlayerStats(season=s, measure_type_detailed_defense="Scoring"))

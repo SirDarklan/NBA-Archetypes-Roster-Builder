@@ -715,7 +715,6 @@ PERSON_ID,PLAYER_LAST_NAME,PLAYER_FIRST_NAME,PLAYER_SLUG,TEAM_ID,TEAM_SLUG,IS_DE
 1641727,Whitehead,Dariq,dariq-whitehead,0,,0,,,,,G-F,6-6,220,Duke,USA,2023.0,1.0,22.0,,2023,2025,16.3,4.0,1.5,Season,0,2025-26
 1631214,Williams,Alondes,alondes-williams,0,,0,,,,,G,6-4,210,Wake Forest,USA,,,,,2022,2025,11.0,6.3,3.0,Season,0,2025-26
 1642873,Williams,Amari,amari-williams,1610612738,celtics,0,Boston,Celtics,BOS,77,F-C,6-11,250,Kentucky,United Kingdom,2025.0,2.0,46.0,1.0,2025,2026,1.4,1.8,0.5,Season,1,2025-26
-1629684,Williams,Grant,grant-williams,1610612766,hornets,0,Charlotte,Hornets,CHA,2,F,6-7,236,Tennessee,USA,2019.0,1.0,22.0,1.0,2019,2026,7.0,3.9,1.6,Season,0,2025-26
 1631109,Williams,Mark,mark-williams,1610612756,suns,0,Phoenix,Suns,PHX,15,C,7-1,240,Duke,USA,2022.0,1.0,15.0,1.0,2022,2026,11.7,8.0,1.0,Season,0,2025-26
 1631466,Williams,Nate,nate-williams,1610612744,warriors,0,Golden State,Warriors,GSW,19,G,6-5,205,Buffalo,USA,,,,1.0,2022,2025,8.0,2.1,1.0,Season,0,2025-26
 1631246,Williams Jr.,Vince,vince-williams-jr,0,,0,,,,,G,6-4,205,Va Commonwealth,USA,2022.0,2.0,47.0,,2022,2025,7.5,3.9,4.2,Season,0,2025-26
